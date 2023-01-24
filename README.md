@@ -21,7 +21,7 @@ $ cd bin
 3. Compile the program in bin
 ``` bash
 $  g++ ../src/main.cpp -o run
-
+```
 4. Run the executable
 ``` bash
 $  ./run.exe
