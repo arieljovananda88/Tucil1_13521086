@@ -18,7 +18,7 @@ $ cd bin
 ```
 3. Run executable file
 ``` bash
-$ ./main.exe or ./main
+$  ./main
 ```
 ### Usage
 The user will be given two choices, one is to prompt four integers or let the program generate its own random four integers when the software is executed. Once all conceivable combinations of these integers have been generated, the computer will employ a series of mathematical operations to determine a solution for each combination. In addition to providing the ability to save the solutions to a text file, the application will output all solutions and execution time in a human-readable format.
