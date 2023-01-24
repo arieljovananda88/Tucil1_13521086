@@ -1,0 +1,3 @@
+Kartu: 7 7 7 7
+Tidak ada solusi
+Runtime: 0.015698 detik
