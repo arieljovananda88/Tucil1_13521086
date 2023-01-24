@@ -25,7 +25,7 @@ The user will be given two choices, one is to prompt four integers or let the pr
 
 ## Repository Structure
 ```
-│ .gitignore
+│ .DS_Store
 │ README.md
 ├─── bin
 │       │ main.exe
