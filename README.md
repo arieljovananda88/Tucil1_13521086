@@ -8,7 +8,6 @@ This project is a program that solves the mathematical challenge known as the "2
 - The C++ Standard Template Library (STL)
 
 ### Installing
-Alternative 1
 
 1. Clone the repository to your local machine
 ``` bash
